@@ -1,6 +1,6 @@
-## Lab 10 : Public Chat Room API
+## Lab 11 : Private Chat Room API
 
-ให้นักศึกษาสร้าง Backend API เพื่อใช้สำหรับห้องแชทสาธารณะโดยใช้เฟรมเวิร์ค NextJS ซึ่งมีความต้องการดังนี้
+ให้นักศึกษาสร้าง Backend API เพื่อใช้สำหรับห้องแชทส่วนตัวโดยใช้เฟรมเวิร์ค NextJS ซึ่งมีความต้องการดังนี้
 
 https://o365cmu-my.sharepoint.com/:b:/g/personal/chayanin_s_cmu_ac_th1/EdL3WExrbVBFsM6Pk4WA9qkBthspvKJAQhlhZemIOXELbw?e=6ebXnx
 
